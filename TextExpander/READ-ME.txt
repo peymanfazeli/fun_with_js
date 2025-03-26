@@ -1,0 +1,14 @@
+<TextExpander>
+      Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis expedita vero laudantium repudiandae voluptas reiciendis delectus alias! Asperiores inventore rem quae nihil culpa aliquid possimus eligendi esse itaque porro placeat voluptatibus iure reprehenderit, explicabo ipsa ea aut perspiciatis incidunt tempora nesciunt. Earum aut sapiente dolorum provident recusandae optio magni fugit?
+</TextExpander>
+
+
+<TextExpander
+      collapsedNumWords={10}
+      epxandButtonText='show less'
+      collapseButtonText='show more'
+      buttonColor="cyan"
+      className="box"
+>
+      Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis expedita vero laudantium repudiandae voluptas reiciendis delectus alias! Asperiores inventore rem quae nihil culpa aliquid possimus eligendi esse itaque porro placeat voluptatibus iure reprehenderit, explicabo ipsa ea aut perspiciatis incidunt tempora nesciunt. Earum aut sapiente dolorum provident recusandae optio magni fugit?
+</TextExpander>
